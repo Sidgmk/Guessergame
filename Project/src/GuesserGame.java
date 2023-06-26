@@ -83,6 +83,7 @@ class Umpire
 		else
 		{
 			System.out.println("Please retry");
+			System.out.println(" simply Please retry");
 		}
 	}
 	
